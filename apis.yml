@@ -31,7 +31,7 @@ x-status-detail: Acquired by Healthgrades (Jan 2020); brand retired, evariant.co
   market.godaddysites.com. No independent public API or developer surface.
 x-acquired-by: healthgrades
 x-acquired-date: '2020-01-07'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
