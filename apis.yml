@@ -26,10 +26,10 @@ name: Evariant
 description: Evariant was a healthcare customer relationship management (CRM) software company founded
   in 2008, offering a Salesforce-aligned platform for health systems covering consumer/patient engagement,
   physician relationship management, marketing planning, appointment reminders, and service-line growth
-  analytics. Evariant was acquired by Healthgrades in January 2020 and fully absorbed into "Evariant, a
-  Healthgrades company"; the independent product and brand were retired. As of this enrichment pass the
-  former evariant.com domain 301-redirects to a parked GoDaddy marketplace page, and Evariant publishes no
-  independent public API, developer portal, SDK, or documentation surface.
+  analytics. Evariant was acquired by Healthgrades in January 2020 and fully absorbed into "Evariant,
+  a Healthgrades company"; the independent product and brand were retired. As of this enrichment pass
+  the former evariant.com domain 301-redirects to a parked GoDaddy marketplace page, and Evariant publishes
+  no independent public API, developer portal, SDK, or documentation surface.
 url: https://raw.githubusercontent.com/api-evangelist/evariant/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -44,7 +44,7 @@ x-acquired-by: healthgrades
 x-acquired-date: '2020-01-07'
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-09-15'
 tags:
 - Company
 - Healthcare
@@ -53,6 +53,7 @@ tags:
 - Physician Relationship Management
 - Health Systems
 - Acquired
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
